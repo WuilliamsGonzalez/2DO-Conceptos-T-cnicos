@@ -1,6 +1,6 @@
 # Conceptos técnicos informáticos
 
-Este repositorio reúne una recopilación de conceptos fundamentales en el área de la informática. Su objetivo es proporcionar una guía clara y accesible sobre temas esenciales, desde la programación hasta la ciberseguridad, pasando por redes y desarrollo web. Ideal para estudiantes, profesionales y cualquier persona interesada en fortalecer su comprensión de las bases informáticas. Cada concepto se explica de manera sencilla, acompañada de ejemplos y recursos adicionales para facilitar el aprendizaje.Clase impartida por el profesor Sr. Marcelo Crisóstomo.
+Este repositorio reúne una recopilación de conceptos fundamentales en el área de la informática. Su objetivo es proporcionar una guía clara y accesible sobre temas esenciales, desde la programación hasta la ciberseguridad, pasando por redes y desarrollo web. Ideal para estudiantes, profesionales y cualquier persona interesada en fortalecer su comprensión de las bases informáticas. Cada concepto se explica de manera sencilla, acompañada de ejemplos y recursos adicionales para facilitar el aprendizaje.Clase impartida por el profesor Sr. Marcelo Crisóstomo
 
 ## Objetivos
 
